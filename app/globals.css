@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.ggg p,td,th {
+  border: 1px solid black;
+}
+* {
+  text-transform: uppercase;
+}
+
+@media print {
+  @page {
+    size: 210mm 297mm;
+    margin: auto;
+  }
+}
