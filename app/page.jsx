@@ -136,9 +136,8 @@ function Search() {
                   </div>
                 </>
               ) : null}
-              <p className="my-3 text-sm">for enquiries contact admin</p>
               <button
-                className="bg-red-700 text-white font-bold px-3 py-2 rounded-lg"
+                className="bg-red-700 text-white font-bold mt-7 px-3 py-2 rounded-lg"
                 onClick={closePopup}
               >
                 Close

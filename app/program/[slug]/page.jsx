@@ -89,7 +89,7 @@ function ProgramDetail() {
   }
 
   return (
-    <div className="p-20 print:p-2 lg:flex lg:flex-col lg:items-center">
+    <div className="p-20 text-sm print:p-2 lg:flex lg:flex-col lg:items-center">
       <div className="text-center">
         <p className="text-3xl font-bold ">Jamia Dars Fest 2023-&apos;24</p>
         <p className="text-2xl font-bold my-2">{zone.zone}</p>
@@ -115,7 +115,7 @@ function ProgramDetail() {
             <tr key={i}>
               <td className="px-1 text-center w-8">{i + 1}</td>
               <td className="px-1 text-center w-10">{v.code}</td>
-              <td className="px-1 w-48 line-clamp-1">{v.name}</td>
+              <td className="px-1 line-clamp-1">{v.name}</td>
               <td className="px-1 ">{v.darsplace}</td>
               <td className="px-1"></td>
               <td className="px-1"></td>
