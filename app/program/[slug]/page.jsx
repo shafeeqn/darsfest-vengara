@@ -2,6 +2,7 @@
 import React from "react";
 import { useParams } from "next/navigation";
 import Data from "../../../data/FullData.json";
+import zone from "../../../data/zone.json";
 
 function ProgramDetail() {
   const { slug } = useParams();
@@ -26,7 +27,8 @@ function ProgramDetail() {
         const candidates = Data.filter((candidate) => {
           return programFields.some((fieldToCheck) => {
             return (
-              candidate[fieldToCheck] === programValue && candidate.category === item.category
+              candidate[fieldToCheck] === programValue &&
+              candidate.category === item.category
             );
           });
         }).map((candidate) => ({
@@ -41,7 +43,7 @@ function ProgramDetail() {
         });
       }
     });
-  
+
     return result;
   }, []);
 
@@ -80,7 +82,7 @@ function ProgramDetail() {
       return a.darsplace.localeCompare(b.darsplace);
     });
   }
-  
+
   if (!programData) {
     // Handle the case where the program is not found
     return <div>Program not found</div>;
@@ -90,7 +92,7 @@ function ProgramDetail() {
     <div className="p-20 print:p-2 lg:flex lg:flex-col lg:items-center">
       <div className="text-center">
         <p className="text-3xl font-bold ">Jamia Dars Fest 2023-&apos;24</p>
-        <p className="text-2xl font-bold my-2">Kondotty Zone</p>
+        <p className="text-2xl font-bold my-2">{zone.zone} Zone</p>
         <h1 className="font-bold mt-2 border-y-2 mb-4 border-black">
           {programData.program} ({programData.category})
         </h1>
@@ -105,19 +107,19 @@ function ProgramDetail() {
             <th className="p-1">Dars Place</th>
             <th className="p-1">Mark</th>
             <th className="p-1">Grade</th>
-            <th className="p-1">Remarks</th>
+            <th className="p-1">Remark</th>
           </tr>
         </thead>
         <tbody>
           {programData.candidates.map((v, i) => (
-            <tr key={i} className="">
+            <tr key={i}>
               <td className="px-1 text-center w-8">{i + 1}</td>
               <td className="px-1 text-center w-10">{v.code}</td>
-              <td className="px-1 w-64 line-clamp-1">{v.name}</td>
-              <td className="px-1 w-40">{v.darsplace}</td>
-              <td className="px-1 w-10"></td>
-              <td className="px-1 w-8"></td>
-              <td className="px-1 w-40"></td>
+              <td className="px-1 w-48 line-clamp-1">{v.name}</td>
+              <td className="px-1 ">{v.darsplace}</td>
+              <td className="px-1"></td>
+              <td className="px-1"></td>
+              <td className="px-1"></td>
             </tr>
           ))}
         </tbody>

@@ -2,11 +2,10 @@
 import React from "react";
 import { useParams } from "next/navigation";
 import Data from "../../../../data/FullData.json";
+import zone from "../../../../data/zone.json";
 
 function DarsDetails() {
   const { slug } = useParams();
-
-  // Find pe darsname corresponding to pe slug
   const selectedDars = Data.find((item) => item.slug === slug);
   const darsData = Data.filter(
     (item) => item.slug === slug && item.category === "JUNIOR"
@@ -23,7 +22,7 @@ function DarsDetails() {
   return (
     <div className="text-center text-xs m-10 print:m-0 p-8 rounded-xl">
             <p className="text-3xl font-bold ">Jamia Dars Fest 2023-&apos;24</p>
-      <p className="text-2xl font-bold mb-2">Kondotty Zone</p>  
+      <p className="text-2xl font-bold mb-2">{zone.zone} Zone</p>  
       <div className="">
         <div className="flex h-48 items-end mb-8 w-[1260px]">
           <div className="w-[400px] my-auto text-center">
