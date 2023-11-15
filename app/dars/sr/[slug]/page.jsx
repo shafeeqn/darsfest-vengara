@@ -30,6 +30,7 @@ function DarsDetails() {
           <div className="w-[400px] my-auto text-center">
             <p className="text-2xl font-bold ">{selectedDars.darsname}</p>
             <p className="font-bold mt-2">Program List for Senior Category</p>
+            <p className="font-bold ">({darsData.length} Candidates)</p>
           </div>
           <div className="">
             <div className="flex whitespace-nowrap font-semibold">
@@ -80,7 +81,7 @@ function DarsDetails() {
       <div>
         {darsData.map((v, i) => (
           <div key={i} className="flex w-[1260px] ggg">
-            <p className="w-[60px] text-left line-clamp-1 font-semibold pl-2">
+            <p className="w-[64px] text-center line-clamp-1 font-semibold px-2">
               {v.code}
             </p>
             <p className="w-[340px] text-left line-clamp-1 font-semibold pl-2">

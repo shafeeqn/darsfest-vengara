@@ -910,15 +910,6 @@
         "offstage3": "37. പദ സമ്പാദനം"
     },
     {
-        "code": "DS533",
-        "name": "MUHAMMED SHAFI P PULAMANTHOLE",
-        "darsname": "IRSHADU THWALABA DARS CHERPULASSERY",
-        "darsplace": "CHERPULASSERY",
-        "zone": "PALAKKAD",
-        "slug": "irshadu-thwalaba-dars-cherpulassery",
-        "category": "SENIOR"
-    },
-    {
         "code": "DS534",
         "name": "MUHAMMED SINAN P KULAPPADA",
         "darsname": "IRSHADU THWALABA DARS CHERPULASSERY",
@@ -1464,10 +1455,10 @@
     {
         "code": "DJ215",
         "name": "Husain Nafathullah. TP. Ederam",
-        "darsname": "Mambaul Quthaba'a Sahithya Samajam Kottopadam",
+        "darsname": "MQSA",
         "darsplace": "Kottopadam",
         "zone": "PALAKKAD",
-        "slug": "mambaul-quthaba'a-sahithya-samajam-kottopadam",
+        "slug": "mqsa",
         "category": "JUNIOR",
         "stage1": "02. ഹിഫ്‌ള്",
         "stage2": "07. പ്രസംഗം ഇംഗ്ലീഷ്",
@@ -1479,10 +1470,10 @@
     {
         "code": "DJ216",
         "name": "Muhammad Adil. Pallikkunnu",
-        "darsname": "Mambaul Quthaba'a Sahithya Samajam Kottopadam",
+        "darsname": "MQSA",
         "darsplace": "Kottopadam",
         "zone": "PALAKKAD",
-        "slug": "mambaul-quthaba'a-sahithya-samajam-kottopadam",
+        "slug": "mqsa",
         "category": "JUNIOR",
         "stage1": "09. ഗാനം അറബി",
         "groupstage1": "19. അറബി സംഘഗാനം",
@@ -1491,10 +1482,10 @@
     {
         "code": "DJ217",
         "name": "Muhammad Ameen. Vengoor",
-        "darsname": "Mambaul Quthaba'a Sahithya Samajam Kottopadam",
+        "darsname": "MQSA",
         "darsplace": "Kottopadam",
         "zone": "PALAKKAD",
-        "slug": "mambaul-quthaba'a-sahithya-samajam-kottopadam",
+        "slug": "mqsa",
         "category": "JUNIOR",
         "stage1": "13. കഥ പറച്ചില്‍",
         "stage2": "16. പദപ്പയറ്റ് അറബി",
@@ -1505,20 +1496,20 @@
     {
         "code": "DJ218",
         "name": "Muhammad Aslam. Pallikkunnu",
-        "darsname": "Mambaul Quthaba'a Sahithya Samajam Kottopadam",
+        "darsname": "MQSA",
         "darsplace": "Kottopadam",
         "zone": "PALAKKAD",
-        "slug": "mambaul-quthaba'a-sahithya-samajam-kottopadam",
+        "slug": "mqsa",
         "category": "JUNIOR",
         "stage1": "03. വാങ്ക്"
     },
     {
         "code": "DJ219",
         "name": "Muhammad Dilshad. Kp. Pallikkunnu",
-        "darsname": "Mambaul Quthaba'a Sahithya Samajam Kottopadam",
+        "darsname": "MQSA",
         "darsplace": "Kottopadam",
         "zone": "PALAKKAD",
-        "slug": "mambaul-quthaba'a-sahithya-samajam-kottopadam",
+        "slug": "mqsa",
         "category": "JUNIOR",
         "stage1": "01. ഖിറാഅത്ത്",
         "stage2": "05. പ്രസംഗം മലയാളം",
@@ -1530,10 +1521,10 @@
     {
         "code": "DJ220",
         "name": "Muhammad Sinan. Kottopadam",
-        "darsname": "Mambaul Quthaba'a Sahithya Samajam Kottopadam",
+        "darsname": "MQSA",
         "darsplace": "Kottopadam",
         "zone": "PALAKKAD",
-        "slug": "mambaul-quthaba'a-sahithya-samajam-kottopadam",
+        "slug": "mqsa",
         "category": "JUNIOR",
         "stage1": "06. പ്രസംഗം ഉറുദു",
         "stage2": "10. മാപ്പിളപ്പാട്ട്",
@@ -1543,10 +1534,10 @@
     {
         "code": "DS594",
         "name": "Abdurahman. Ak. Chavakkad",
-        "darsname": "Mambaul Quthaba'a Sahithya Samajam Kottopadam",
+        "darsname": "MQSA",
         "darsplace": "Kottopadam",
         "zone": "PALAKKAD",
-        "slug": "mambaul-quthaba'a-sahithya-samajam-kottopadam",
+        "slug": "mqsa",
         "category": "SENIOR",
         "stage1": "04. ക്ലാസ് അവതരണം",
         "stage2": "07. പ്രസംഗം അറബി",
@@ -1562,30 +1553,30 @@
     {
         "code": "DS595",
         "name": "Amal. V pallikkunnu",
-        "darsname": "Mambaul Quthaba'a Sahithya Samajam Kottopadam",
+        "darsname": "MQSA",
         "darsplace": "Kottopadam",
         "zone": "PALAKKAD",
-        "slug": "mambaul-quthaba'a-sahithya-samajam-kottopadam",
+        "slug": "mqsa",
         "category": "SENIOR",
         "offstage1": "30. പ്രബന്ധം മലയാളം"
     },
     {
         "code": "DS596",
         "name": "Ameer. V pallikkunnu",
-        "darsname": "Mambaul Quthaba'a Sahithya Samajam Kottopadam",
+        "darsname": "MQSA",
         "darsplace": "Kottopadam",
         "zone": "PALAKKAD",
-        "slug": "mambaul-quthaba'a-sahithya-samajam-kottopadam",
+        "slug": "mqsa",
         "category": "SENIOR",
         "offstage1": "39. പ്രശ്‌നോത്തരി"
     },
     {
         "code": "DS597",
         "name": "Haheeb Rahmathullah.TP. Ederam",
-        "darsname": "Mambaul Quthaba'a Sahithya Samajam Kottopadam",
+        "darsname": "MQSA",
         "darsplace": "Kottopadam",
         "zone": "PALAKKAD",
-        "slug": "mambaul-quthaba'a-sahithya-samajam-kottopadam",
+        "slug": "mqsa",
         "category": "SENIOR",
         "stage1": "06. പ്രസംഗം മലയാളം",
         "stage2": "15. പ്രബന്ധാവതരണം",
@@ -1597,20 +1588,20 @@
     {
         "code": "DS598",
         "name": "Muhammad Afeef.PC Arappara",
-        "darsname": "Mambaul Quthaba'a Sahithya Samajam Kottopadam",
+        "darsname": "MQSA",
         "darsplace": "Kottopadam",
         "zone": "PALAKKAD",
-        "slug": "mambaul-quthaba'a-sahithya-samajam-kottopadam",
+        "slug": "mqsa",
         "category": "SENIOR",
         "offstage1": "36. അടിക്കുറിപ്പ്"
     },
     {
         "code": "DS599",
         "name": "Muhammad Ismail. Ch. Ucharakkadavu",
-        "darsname": "Mambaul Quthaba'a Sahithya Samajam Kottopadam",
+        "darsname": "MQSA",
         "darsplace": "Kottopadam",
         "zone": "PALAKKAD",
-        "slug": "mambaul-quthaba'a-sahithya-samajam-kottopadam",
+        "slug": "mqsa",
         "category": "SENIOR",
         "stage1": "10. ഖുഥ്ബ",
         "stage2": "02. ഹിഫ്‌ള്"
@@ -1618,10 +1609,10 @@
     {
         "code": "DS600",
         "name": "Muhammad Umair. Ap. Pallikkunnu",
-        "darsname": "Mambaul Quthaba'a Sahithya Samajam Kottopadam",
+        "darsname": "MQSA",
         "darsplace": "Kottopadam",
         "zone": "PALAKKAD",
-        "slug": "mambaul-quthaba'a-sahithya-samajam-kottopadam",
+        "slug": "mqsa",
         "category": "SENIOR",
         "stage1": "03. വാങ്ക്",
         "stage2": "11. ഗ്രന്ഥ വായന",
@@ -1632,10 +1623,10 @@
     {
         "code": "DS601",
         "name": "Shabeer Ali. Vp. Karakirshi",
-        "darsname": "Mambaul Quthaba'a Sahithya Samajam Kottopadam",
+        "darsname": "MQSA",
         "darsplace": "Kottopadam",
         "zone": "PALAKKAD",
-        "slug": "mambaul-quthaba'a-sahithya-samajam-kottopadam",
+        "slug": "mqsa",
         "category": "SENIOR",
         "stage1": "09. പ്രസംഗം ഇംഗ്ലീഷ്",
         "offstage1": "27. വിവര്‍ത്തനം",
@@ -1643,21 +1634,12 @@
         "offstage3": "34. കവിതാ രചന"
     },
     {
-        "code": "DS602",
-        "name": "Shajahan. T. kanniyala",
-        "darsname": "Mambaul Quthaba'a Sahithya Samajam Kottopadam",
-        "darsplace": "Kottopadam",
-        "zone": "PALAKKAD",
-        "slug": "mambaul-quthaba'a-sahithya-samajam-kottopadam",
-        "category": "SENIOR"
-    },
-    {
         "code": "DS593",
         "name": "Naseeb Rahman. Tirur",
-        "darsname": "Mambaul Quthaba'a Sahithya Samajam Kottopadam",
+        "darsname": "MQSA",
         "darsplace": "Kottopadam",
         "zone": "PALAKKAD",
-        "slug": "mambaul-quthaba'a-sahithya-samajam-kottopadam",
+        "slug": "mqsa",
         "category": "SENIOR",
         "stage1": "05. വഅ്‌ള്",
         "stage2": "16. നിമിഷപ്രസംഗം",
@@ -1901,15 +1883,6 @@
         "slug": "ma'dinul-uloom-dars",
         "category": "SENIOR",
         "stage1": "07. പ്രസംഗം അറബി"
-    },
-    {
-        "code": "DS569",
-        "name": "MUHAMMED ASLAM P THELAKKAD",
-        "darsname": "MA'DINUL ULOOM DARS",
-        "darsplace": "KULAPPARAMBU",
-        "zone": "PALAKKAD",
-        "slug": "ma'dinul-uloom-dars",
-        "category": "SENIOR"
     },
     {
         "code": "DS570",
@@ -2347,10 +2320,10 @@
     {
         "code": "DS613",
         "name": "HAFIZ ABDURAHMAN",
-        "darsname": "MISWBAHUL HUA DARS MOLOOR",
+        "darsname": "MISWBAHUL HUDA DARS MOLOOR",
         "darsplace": "MOLOOR",
         "zone": "PALAKKAD",
-        "slug": "miswbahul-hua-dars-moloor",
+        "slug": "miswbahul-huda-dars-moloor",
         "category": "SENIOR",
         "stage1": "02. ഹിഫ്‌ള്",
         "stage2": "03. വാങ്ക്",
@@ -3969,15 +3942,6 @@
         "stage1": "08. പ്രസംഗം ഉറുദു"
     },
     {
-        "code": "DS637",
-        "name": "MUHAMMAD HASHIM VILAYOOR",
-        "darsname": "SABEELUSSALAM DARS KURUVATTOOR",
-        "darsplace": "VALLAPPUZHA",
-        "zone": "PALAKKAD",
-        "slug": "sabeelussalam-dars-kuruvattoor",
-        "category": "SENIOR"
-    },
-    {
         "code": "DS638",
         "name": "MUHAMMAD MUSTHAFA KURUVATTOOR",
         "darsname": "SABEELUSSALAM DARS KURUVATTOOR",
@@ -4049,15 +4013,6 @@
         "stage1": "02. ഹിഫ്‌ള്",
         "offstage1": "23. ഖത്തുന്നസ്ഖ്",
         "offstage2": "24. ഖത്തുറുഖഈ"
-    },
-    {
-        "code": "DS644",
-        "name": "SAFEER KONDOORKARA",
-        "darsname": "SABEELUSSALAM DARS KURUVATTOOR",
-        "darsplace": "VALLAPPUZHA",
-        "zone": "PALAKKAD",
-        "slug": "sabeelussalam-dars-kuruvattoor",
-        "category": "SENIOR"
     },
     {
         "code": "DS645",
@@ -4455,15 +4410,6 @@
         "offstage1": "29. പ്രബന്ധം ഇംഗ്ലീഷ്"
     },
     {
-        "code": "DS652",
-        "name": "MUHAMMED IRSHAD CHERUKODE",
-        "darsname": "VANDUMTHARA DARAS",
-        "darsplace": "VANDUMTHARA",
-        "zone": "PALAKKAD",
-        "slug": "vandumthara-daras",
-        "category": "SENIOR"
-    },
-    {
         "code": "DS653",
         "name": "MUHAMMED NIYAS K VALLAPPUZHA",
         "darsname": "VANDUMTHARA DARAS",
@@ -4472,15 +4418,6 @@
         "slug": "vandumthara-daras",
         "category": "SENIOR",
         "offstage1": "37. പദ സമ്പാദനം"
-    },
-    {
-        "code": "DS654",
-        "name": "MUHAMMED SABIK KOZHIKKODE",
-        "darsname": "VANDUMTHARA DARAS",
-        "darsplace": "VANDUMTHARA",
-        "zone": "PALAKKAD",
-        "slug": "vandumthara-daras",
-        "category": "SENIOR"
     },
     {
         "code": "DS655",
@@ -4832,15 +4769,6 @@
         "offstage1": "32. തലവാചക നിര്‍മ്മാണം"
     },
     {
-        "code": "DS579",
-        "name": "MUHAMMED AMEER MOORKKANAD",
-        "darsname": "MAKHDOOMIYYA DARS VILATHUR",
-        "darsplace": "VILATHUR",
-        "zone": "PALAKKAD",
-        "slug": "makhdoomiyya-dars-vilathur",
-        "category": "SENIOR"
-    },
-    {
         "code": "DS580",
         "name": "MUHAMMED ASLAM NA",
         "darsname": "MAKHDOOMIYYA DARS VILATHUR",
@@ -4977,15 +4905,6 @@
         "stage2": "17. പാടിപ്പറയല്‍",
         "offstage1": "23. ഖത്തുന്നസ്ഖ്",
         "groupstage3": "20. പ്രോഗ്രാം സെറ്റിംഗ്"
-    },
-    {
-        "code": "DS592",
-        "name": "MUHAMMED MUSTHAFA MAHMOON.P (KODUMUDI)",
-        "darsname": "MAKHDOOMIYYA DARS VILATHUR",
-        "darsplace": "VILATHUR",
-        "zone": "PALAKKAD",
-        "slug": "makhdoomiyya-dars-vilathur",
-        "category": "SENIOR"
     },
     {
         "code": "DJ245",

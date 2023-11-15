@@ -8,10 +8,3 @@
 * {
   text-transform: uppercase;
 }
-
-@media print {
-  @page {
-    size: 210mm 297mm;
-    margin: auto;
-  }
-}
