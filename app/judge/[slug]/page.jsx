@@ -90,36 +90,71 @@ function ProgramDetail() {
 
   return (
     <div className="p-20 text-sm print:p-2 lg:flex lg:flex-col lg:items-center">
-      <div className="text-center">
-        <p className="text-3xl font-bold ">Jamia Dars Fest 2023-&apos;24</p>
-        <p className="text-2xl font-bold my-2">{zone.zone}</p>
-        <h1 className="font-bold mt-2 border-y-2 mb-4 border-black">
-          {programData.program} ({programData.category})
-        </h1>
-      </div>
+      <div className="flex gap-5">
+        <div>
+          <div className="text-center">
+            <p className="text-3xl font-bold ">Jamia Dars Fest 2023-&apos;24</p>
+            <p className="text-2xl font-bold my-2">{zone.zone}</p>
+            <h1 className="font-bold mt-2 border-y-2 mb-4 border-black">
+              {programData.program} ({programData.category})
+            </h1>
+          </div>
+          <table className="w-full max-w-[700px]">
+            <thead>
+              <tr className="print:bg-black print:text-white bg-black text-white">
+                <th className="p-1">Sl No</th>
+                <th className="p-1">Code</th>
+                <th className="p-1">Mark</th>
+                <th className="p-1">Grade</th>
+                <th className="p-1">Remark</th>
+              </tr>
+            </thead>
+            <tbody>
+              {programData.candidates.map((v, i) => (
+                <tr key={i}>
+                  <td className="px-1 text-center w-8">{i + 1}</td>
+                  <td className="px-1 text-center w-20">{v.code}</td>
+                  <td className="px-1"></td>
+                  <td className="px-1"></td>
+                  <td className="px-1"></td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+        <div>
+          <div className="text-center">
+            <p className="text-3xl font-bold ">Jamia Dars Fest 2023-&apos;24</p>
+            <p className="text-2xl font-bold my-2">{zone.zone}</p>
+            <h1 className="font-bold mt-2 border-y-2 mb-4 border-black">
+              {programData.program} ({programData.category})
+            </h1>
+          </div>
+          <table className="w-full max-w-[700px]">
+            <thead>
+              <tr className="print:bg-black print:text-white bg-black text-white">
+                <th className="p-1">Sl No</th>
+                <th className="p-1">Code</th>
+                <th className="p-1">Mark</th>
+                <th className="p-1">Grade</th>
+                <th className="p-1">Remark</th>
+              </tr>
+            </thead>
+            <tbody>
+              {programData.candidates.map((v, i) => (
+                <tr key={i}>
+                  <td className="px-1 text-center w-8">{i + 1}</td>
+                  <td className="px-1 text-center w-20">{v.code}</td>
+                  <td className="px-1"></td>
+                  <td className="px-1"></td>
+                  <td className="px-1"></td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
 
-      <table className="m-3 w-full max-w-[700px]">
-        <thead>
-          <tr className="print:bg-black print:text-white bg-black text-white">
-            <th className="p-1">Sl No</th>
-            <th className="p-1">Code</th>
-            <th className="p-1">Mark</th>
-            <th className="p-1">Grade</th>
-            <th className="p-1">Remark</th>
-          </tr>
-        </thead>
-        <tbody>
-          {programData.candidates.map((v, i) => (
-            <tr key={i}>
-              <td className="px-1 text-center w-8">{i + 1}</td>
-              <td className="px-1 text-center w-20">{v.code}</td>
-              <td className="px-1"></td>
-              <td className="px-1"></td>
-              <td className="px-1"></td>
-            </tr>
-          ))}
-        </tbody>
-      </table>
+      </div>
     </div>
   );
 }
