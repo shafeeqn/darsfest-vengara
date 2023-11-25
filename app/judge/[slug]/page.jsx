@@ -90,7 +90,7 @@ function ProgramDetail() {
 
   return (
     <div className="p-20 text-sm print:p-2 lg:flex lg:flex-col lg:items-center">
-      <div className="flex gap-8">
+      <div className="flex gap-8 print:gap-20">
         <div>
           <div className="text-center">
             <p className="text-3xl font-bold ">Jamia Dars Fest 2023-&apos;24</p>
